@@ -45,4 +45,4 @@ Python 3.10及以上版本
 + 给这个项目点个star
 
 
-由于懒得写READNME，我把原来项目的README改了改，请见谅。
+由于懒得写README，我把原来项目的README改了改，请见谅。

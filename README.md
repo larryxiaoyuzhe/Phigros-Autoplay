@@ -18,8 +18,8 @@
 
 
 ```bash
-git clone https://github.com/ClankySun10936/Phigros-Autoplay-Script
-pip install -i requirements.txt
+git clone https://github.com/larryxiaoyuzhe/Phigros-Autoplay.git
+pip install -r requirements.txt
 python main.py
 ```
 
